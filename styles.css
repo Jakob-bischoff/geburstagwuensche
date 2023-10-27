@@ -1,8 +1,8 @@
 .centered-div {
     width: 500px;
     height: 200px;
-    display: flex;
     justify-content: space-between;
+    margin:0px;
 }
 
 .section {
