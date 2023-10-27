@@ -20,3 +20,7 @@
     background-position: center center;
     background-attachment: unset;
 }
+     .img-fluid {
+            max-width: 100%; /* Ensure the images don't exceed the width of their container */
+            height: auto; /* Maintain the aspect ratio */
+        }
